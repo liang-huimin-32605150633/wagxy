@@ -1,5 +1,7 @@
 <template>
   <div id="app">
+    <h1>ch05-routing | 第 5 章实验台</h1>
+    <p>第 05 课（5.1—5.6）：路由——地址栏变，组件换，页面不刷新</p>
     <nav class="top-nav">
       <router-link to="/home">首页</router-link>
       <router-link to="/about">关于</router-link>
